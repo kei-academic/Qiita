@@ -19,6 +19,7 @@
 
 ## Contents
 - [コマンドラインツール「mpx-cli」を利用してPDFファイルをMarkdownやDocxファイルへ変換する方法](Articles/コマンドラインツール「mpx-cli」を利用してPDFファイルをMarkdownやDocxファイルへ変換する方法.md)
+- [ターミナルでの出力結果をコピーしたい(Mac)](Articles/ターミナルでの出力結果をコピーしたい(Mac).md)
 
 ## License
 
