@@ -43,6 +43,7 @@ pwd は print working directory の略である．
 
 ### aliasの設定
 毎度コピーするごとに`pbcopy`と入力するのが億劫なので，aliasを設定する．
+`~/.zshrc`に以下の行を追記．
 
 ```sh
 alias pb='pbcopy'
