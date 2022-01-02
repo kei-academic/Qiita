@@ -2,12 +2,12 @@
 
 <p align="left>
     <!-- Qiita posts -->
-    <a href="http://qiita.com/kei11235813">
-        <img height="20" src="https://qiita-badge.apiapi.app/s/kei11235813/posts.svg" />
+    <a href="http://qiita.com/kei_university">
+        <img height="20" src="https://qiita-badge.apiapi.app/s/kei_university/posts.svg" />
     </a>
     <!-- Qiita contributions -->
-    <a href="http://qiita.com/kei11235813">
-        <img height="20" src="https://qiita-badge.apiapi.app/s/kei11235813/contributions.svg" />
+    <a href="http://qiita.com/kei_university">
+        <img height="20" src="https://qiita-badge.apiapi.app/s/kei_university/contributions.svg" />
     </a>
 </p>
 
